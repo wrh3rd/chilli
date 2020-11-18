@@ -1,0 +1,12 @@
+{
+  "name": "chilli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "sass chilli.scss dist/chilli.css"
+  },
+  "devDependencies": {
+    "sass": "^1.29.0"
+  }
+}
